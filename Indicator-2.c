@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<string.h>
 
 int main() {
   int arr[100], n, i, *p;
